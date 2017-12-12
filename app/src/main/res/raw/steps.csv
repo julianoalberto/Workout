@@ -1,0 +1,70 @@
+#sequence,name,instructions,time,media_uri,media_type
+1,Costas série 1,10 repetições,0,costas_1,video
+2,Costas série 1,10 repetições,0,costas_2,video
+3,Costas série 1,10 repetições,0,costas_3,video
+4,Costas série 1,10 repetições,0,costas_4,video
+5,Costas série 1,10 repetições,0,costas_5,video
+6,Costas série 1,60 segundos na posição,60,costas_6,image
+7,Costas série 1,10 repetições,0,costas_7,video
+8,Costas série 1,10 repetições,0,costas_8,video
+9,Costas série 1,30 segundos descanso,30,descanso_1,image
+10,Costas série 2,10 repetições,0,costas_1,video
+11,Costas série 2,10 repetições,0,costas_2,video
+12,Costas série 2,10 repetições,0,costas_3,video
+13,Costas série 2,10 repetições,0,costas_4,video
+14,Costas série 2,10 repetições,0,costas_5,video
+15,Costas série 2,60 segundos na posição,60,costas_6,image
+16,Costas série 2,10 repetições,0,costas_7,video
+17,Costas série 2,10 repetições,0,costas_8,video
+18,Costas série 2,30 segundos descanso,30,descanso_1,image
+19,Costas série 3,10 repetições,0,costas_9_right,video
+20,Costas série 3,10 repetições,0,costas_9_left,video
+21,Costas série 4,10 repetições,0,costas_9_right,video
+22,Costas série 4,10 repetições,0,costas_9_left,video
+23,Peito série 1,10 repetições,0,peito_1,video
+24,Peito série 2,10 repetições,0,peito_1,video
+25,Pernas série 1,8 repetições,0,pernas_1,video
+26,Pernas série 1,8 repetições,0,pernas_2,video
+27,Pernas série 1,8 repetições,0,pernas_3,video
+28,Pernas série 1,8 repetições,0,pernas_4,video
+29,Pernas série 1,8 repetições,0,pernas_5,video
+30,Pernas série 1,8 repetições,0,pernas_6,video
+31,Pernas série 2,8 repetições,0,pernas_1,video
+32,Pernas série 2,8 repetições,0,pernas_2,video
+33,Pernas série 2,8 repetições,0,pernas_3,video
+34,Pernas série 2,8 repetições,0,pernas_4,video
+35,Pernas série 2,8 repetições,0,pernas_5,video
+36,Pernas série 2,8 repetições,0,pernas_6,video
+37,Pernas série 3,8 repetições,0,pernas_1,video
+38,Pernas série 3,8 repetições,0,pernas_2,video
+39,Pernas série 3,8 repetições,0,pernas_3,video
+40,Pernas série 3,8 repetições,0,pernas_4,video
+41,Pernas série 3,8 repetições,0,pernas_5,video
+42,Pernas série 3,8 repetições,0,pernas_6,video
+43,Pernas série 4,60 segundos na posição,60,pernas_7,image
+44,Pernas série 5,60 segundos na posição,60,pernas_7,image
+45,Abdominal série 1,30 repetições,0,abdominal_1,video
+46,Abdominal série 1,30 repetições,0,abdominal_2,video
+47,Abdominal série 1,30 segundos descanso,30,descanso_1,image
+48,Abdominal série 1,30 repetições,0,abdominal_3,video
+49,Abdominal série 1,30 repetições,0,abdominal_4,video
+50,Abdominal série 1,30 segundos descanso,30,descanso_1,image
+51,Abdominal série 1,30 repetições,0,abdominal_5,video
+52,Abdominal série 1,30 repetições,0,abdominal_6,video
+53,Abdominal série 1,30 segundos descanso,30,descanso_1,image
+54,Abdominal série 1,30 repetições,0,abdominal_7,video
+55,Abdominal série 1,30 repetições,0,abdominal_8,video
+56,Alongamento,20 segundos,20,alongamento_1,image
+57,Alongamento,20 segundos,20,alongamento_2,image
+58,Alongamento,20 segundos,20,alongamento_3,image
+59,Alongamento,20 segundos,20,alongamento_4,image
+60,Alongamento,20 segundos,20,alongamento_5,image
+61,Alongamento,20 segundos,20,alongamento_6,image
+62,Alongamento,20 segundos,20,alongamento_7,image
+63,Alongamento,20 segundos,20,alongamento_8,image
+64,Alongamento,20 segundos,20,alongamento_9,image
+65,Alongamento,20 segundos,20,alongamento_10,image
+66,Alongamento,20 segundos,20,alongamento_11,image
+67,Alongamento,20 segundos,20,alongamento_12,image
+68,Alongamento,20 segundos,20,alongamento_13,image
+69,Alongamento,20 segundos,20,alongamento_14,image

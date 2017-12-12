@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="steps_label">Passo %1$d / %2$d: %3$s</string>
+    <string name="previous_button">Anterior</string>
+    <string name="home_button">Inicio</string>
+    <string name="next_button">Proximo</string>
+
+
+    <string name="last_step">last_step</string>
+</resources>
