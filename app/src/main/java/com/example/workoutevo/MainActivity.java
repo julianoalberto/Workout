@@ -1,4 +1,4 @@
-package com.jalberto.workout;
+package com.example.workoutevo;
 
 
 import android.app.Activity;
@@ -24,8 +24,8 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.VideoView;
 
-import com.jalberto.workout.dao.StepDAO;
-import com.jalberto.workout.model.Step;
+import com.example.workoutevo.dao.StepDAO;
+import com.example.workoutevo.model.Step;
 
 
 

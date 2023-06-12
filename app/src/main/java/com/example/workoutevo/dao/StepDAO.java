@@ -1,6 +1,6 @@
-package com.jalberto.workout.dao;
+package com.example.workoutevo.dao;
 
-import com.jalberto.workout.model.Step;
+import com.example.workoutevo.model.Step;
 
 import java.io.BufferedReader;
 import java.io.IOException;
